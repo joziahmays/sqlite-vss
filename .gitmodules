@@ -1,6 +1,6 @@
 [submodule "vendor/faiss"]
 	path = vendor/faiss
-	url = https://github.com/facebookresearch/faiss
+	url = https://github.com/joziahmays/faiss
 [submodule "vendor/json"]
 	path = vendor/json
 	url = https://github.com/nlohmann/json.git
